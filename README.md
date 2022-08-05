@@ -1,8 +1,12 @@
 ###Projet : NoSQL, ORM ET PERSISTANCE###
 
 
-Réalisé par :                                                        Dirigé par :
-TOGYENOUBA RIMTEBAYE                                              M. MICHEL ALADJI
+Réalisé par : 
+TOGYENOUBA RIMTEBAYE      
+
+
+Dirigé par :
+M. MICHEL ALADJI
 
 
 
